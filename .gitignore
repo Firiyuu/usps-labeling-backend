@@ -1,0 +1,9 @@
+.vscode
+.DS_Store
+*.pyc
+.cache
+
+# direnv
+.direnv
+.env
+.venv

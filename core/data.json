@@ -1,0 +1,42 @@
+{
+
+    "sender_name": "Phillip",
+    "sender_company": "UWL",
+    "sender_zip": "33308",
+    "sender_city": "Iligan City",
+    "sender_state": "FL",
+    "sender_phone": "0993942842",
+    "sender_email": "test@gmail.com",
+    "sender_address1": "12121 DENVER HEIGHTS",
+    "sender_address2": "12121 DENVER HEIGHTS",
+    "sender_address3": "",
+
+
+    "receiver_name":"Phillip",
+    "receiver_company": "UWL",
+    "receiver_email": "test@gmail.com",
+    "receiver_zip": "33308",
+    "receiver_city": "Iligan City",
+    "receiver_state": "FL",
+    "receiver_phone": "0993942842",
+    "receiver_address1": "12121 DENVER HEIGHTS",
+    "receiver_address2": "",
+    "receiver_address3": "",
+
+
+    "weight_value" : 1,
+    "weight_unit" : "LB",
+    "dimensions_length" : 5,
+    "dimensions_width" : 7,
+    "dimensions_depth" : 6,
+    "dimensions_unit" : "IN",
+    "reference" : "TST001",
+    "method" : "USPS_PRIORITY_PACKAGE",
+    "imgformat_layout" : "4x6",
+    "imgformat_type" : "PDF",
+    "imgformat_labelreturn" : "URL",
+    "is_return": false,
+    "provider" : "GSS"
+
+
+}
